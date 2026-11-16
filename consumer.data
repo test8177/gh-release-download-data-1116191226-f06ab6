@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+id > "$RUNNER_TEMP/release-download-80446b634d-${EXECUTION_CASE}-id"
